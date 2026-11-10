@@ -1,6 +1,4 @@
-﻿# ShipSafe
-
-<p align="center">
+﻿<p align="center">
   <img src="assets\shipsafe-logo.svg" alt="ShipSafe" width="360">
 </p>
 
