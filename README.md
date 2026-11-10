@@ -1,7 +1,7 @@
 ﻿# ShipSafe
 
 <p align="center">
-  <img src="assets/shipsafe-wordmark.svg" alt="ShipSafe" width="360">
+  <img src="assets\shipsafe-logo.svg" alt="ShipSafe" width="360">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/axomiyaindie/shipsafe">GitHub Repository</a> ·
+  <a href="https://github.com/rakibuli10/shipsafe">GitHub Repository</a> ·
   <a href="SECURITY.md">Security Policy</a> ·
   <a href="CONTRIBUTING.md">Contributing</a>
 </p>
