@@ -318,7 +318,7 @@ For security vulnerabilities affecting ShipSafe itself, follow [SECURITY.md](SEC
 
 Fork the official repository:
 
-https://github.com/axomiyaindie/shipsafe
+https://github.com/rakibuli10/shipsafe
 
 ### Step 2: Clone Your Fork
 
