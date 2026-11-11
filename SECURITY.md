@@ -8,7 +8,7 @@ We welcome responsible security research and appreciate the efforts of developer
 This document explains how to report security vulnerabilities affecting the ShipSafe project and how we approach responsible disclosure.
 
 **Project:** ShipSafe\
-**Repository:** https://github.com/axomiyaindie/shipsafe
+**Repository:** https://github.com/rakibuli10/shipsafe
 
 ## 1. Reporting a Security Vulnerability
 
@@ -18,7 +18,7 @@ If you discover a potential security vulnerability affecting ShipSafe, please re
 
 Use GitHub's private vulnerability reporting feature when it is enabled for this repository:
 
-https://github.com/axomiyaindie/shipsafe/security/advisories/new
+https://github.com/rakibuli10/shipsafe/security/advisories/new
 
 Private reporting helps prevent sensitive vulnerability details from being exposed publicly before they can be reviewed.
 
